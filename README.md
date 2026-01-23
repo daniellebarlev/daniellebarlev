@@ -1,4 +1,22 @@
-Hi!
-My name is Danielle, and I’m a third-year Computer Science major at UC Davis with a strong passion for public affairs, tech policy, and product management. I’m driven by the ways technology can be used to create meaningful, ethical, and socially impactful solutions to real-world challenges.
-Through my coursework, projects, and involvement in organizations like TedxUCDavis and Women in Computer Science, I’ve gained hands-on experience in designing and developing web applications, optimizing user interactions, and improving accessibility. I love combining technical skills with thoughtful design and policy awareness to create systems that are both innovative and responsible.
-I’m always looking for opportunities to collaborate, innovate, and grow at the intersection of technology, policy, and sustainability.
+# Hi, I’m Danielle 👋
+
+🎓 **Third-year Computer Science major at UC Davis**  
+💡 Interested in **public affairs, tech policy, and product management**  
+🌱 Focused on **ethical, accessible, and socially impactful technology**
+
+I’m passionate about how technology can be used responsibly to solve real-world problems. I enjoy working at the intersection of **engineering, policy, and thoughtful design**, where technical decisions have real social consequences.
+
+## 🛠️ What I’m Working On
+- Building **web applications** with a focus on usability and accessibility  
+- Exploring **data-driven decision making** and product thinking  
+- Applying **policy awareness** to technical design choices  
+
+## 🌍 Experience & Involvement
+- 🎤 **TEDxUCDavis** — contributing to idea-driven, impact-focused events  
+- 💻 **Women in Computer Science** — supporting community and inclusion in tech  
+- 📚 Coursework and projects spanning **systems, data, and web development**
+
+## 🎯 Interests
+- Tech & public policy  
+- Product management and user-centered design  
+- Sustainability and ethical innovation  
