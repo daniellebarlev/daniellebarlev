@@ -1,0 +1,4 @@
+Hi!
+My name is Danielle, and I’m a third-year Computer Science major at UC Davis with a strong passion for public affairs, tech policy, and product management. I’m driven by the ways technology can be used to create meaningful, ethical, and socially impactful solutions to real-world challenges.
+Through my coursework, projects, and involvement in organizations like TedxUCDavis and Women in Computer Science, I’ve gained hands-on experience in designing and developing web applications, optimizing user interactions, and improving accessibility. I love combining technical skills with thoughtful design and policy awareness to create systems that are both innovative and responsible.
+I’m always looking for opportunities to collaborate, innovate, and grow at the intersection of technology, policy, and sustainability.
